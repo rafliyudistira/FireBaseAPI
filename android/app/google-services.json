@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152655989222",
+    "project_id": "flutterapiproject-14674",
+    "storage_bucket": "flutterapiproject-14674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152655989222:android:d27d01e65aa8b87169ee27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152655989222-2d6rrovfdp83a218v755aohgfcid0hms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4zDYlA-YFIwoXMKZHtYqO2nUpTFhmto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152655989222-2d6rrovfdp83a218v755aohgfcid0hms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
